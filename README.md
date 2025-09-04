@@ -110,5 +110,5 @@ export default tseslint.config([
 
 Acknowledgements
 
-Inspired by enterprise workplace tools and built as a portfolio project by request of **Digital Culture Group**,  
+Enterprise workplace tool and built as a portfolio project by request of **Digital Culture Group**,  
 demonstrating backend + frontend + API integration skills.
